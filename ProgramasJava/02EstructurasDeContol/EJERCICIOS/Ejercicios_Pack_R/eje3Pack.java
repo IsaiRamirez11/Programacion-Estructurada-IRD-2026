@@ -1,9 +1,10 @@
-import javax.swing.JOptionPane;
+
 
 /*muestra un menú para convertir temperaturas de Celsius a Fahrenheit y de Fahrenheit a 
 Celsius.*/
 
 
+import javax.swing.JOptionPane;
 
 public class eje3Pack {
     public static void main(String[] args) {
