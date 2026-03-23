@@ -1,4 +1,13 @@
-html,body{
+html, body{
     margin: 0;
-    
+    background-color: #6213ac;
+    color: white;
 }
+
+.TITULO{
+    text-align: center;
+    background-color: #6213ac;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}   
